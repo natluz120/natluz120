@@ -4,7 +4,7 @@
 
 <p>Depois de <strong>7 anos na indústria farmacêutica</strong>, decidi seguir o chamado da lógica, dos dados e da tecnologia — e comecei minha transição de carreira para o universo da programação e análise de dados.</p>
 
-<p>Hoje, estudo desenvolvimento full stack e mergulho de cabeça em <strong>Python</strong>, <strong>SQL</strong>, <strong>lógica de programação</strong> e tudo que possa me aproximar do meu objetivo: <em>transformar dados em decisões inteligentes</em>.</p>
+<p>Hoje, estudo análise de dados e desenvolvimento full stack e mergulho de cabeça em <strong>Python</strong>, <strong>SQL</strong>, <strong>lógica de programação</strong> e tudo que possa me aproximar do meu objetivo: <em>transformar dados em decisões inteligentes</em>.</p>
 
 <hr>
 
