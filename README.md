@@ -36,7 +36,7 @@ Se você misturar ciência, dados e um bom meme... já ganhou minha atenção. �
 
 <h2>🤝 Vamos nos conectar?</h2>
 <ul>
-  <li>💼 <a href="https://www.linkedin.com/in/nathalia-l-857211a3/" target="_blank">LinkedIn</a></li>
+  <li>💼 <a href="https://www.linkedin.com/in/nathalia-l" target="_blank">LinkedIn</a></li>
   <li>📫 E-mail: <a href="mailto:nathaliadelcaro14@gmail.com">nathaliadelcaro14@gmail.com</a></li>
 </ul>
 
