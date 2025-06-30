@@ -14,7 +14,7 @@
   <li><strong>📊 Dash E-commerce:</strong> Dashboard interativo com Python e Dash para análise de dados de vendas.</li>
   <li><strong>🎬 Django Streaming:</strong> Projeto de back-end com Django para explorar funcionalidades de um app de streaming.</li>
   <li><strong>📈 Visualização de Dados:</strong> Projeto focado em gráficos, dados e storytelling com Python.</li>
-  <li><strong>🖥️ The Best Spider-Man Script:</strong> Análise de popularidade dos filmes do Homem-Aranha, utilizando bibliotecas Python e Looker Studio para visualizações.</li>
+  <li><strong>🕷️ The Best Spider-Man Script:</strong> Análise de popularidade dos filmes do Homem-Aranha, utilizando bibliotecas Python e Looker Studio para visualizações.</li>
 </ul>
 
 <h2>🎯 Objetivo profissional</h2>
