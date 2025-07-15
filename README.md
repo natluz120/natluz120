@@ -19,6 +19,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natluz120&repo=ozempic-market-analysis&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Linguagens utilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natluz120&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>🎯 Objetivo profissional</h2>
 <p>Atuar como <strong>Analista de Dados</strong>, ajudando empresas a tomarem decisões mais inteligentes com base em dados reais e bem analisados.</p>
