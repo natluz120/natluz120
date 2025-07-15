@@ -28,11 +28,12 @@
 
 <h2>📚 O que estou estudando atualmente:</h2>
 <ul>
-  <li>Python para análise de dados</li>
-  <li>Dash e Streamlit para visualizações interativas</li>
-  <li>SQL e manipulação de dados com pandas</li>
-  <li>Django e lógica de back-end</li>
-  <li>Shell Script para automações</li>
+  <li>Python para análise e visualização de dados</li>
+  <li>SQL (BigQuery e MySQL) para consultas e manipulação de dados</li>
+  <li>Power BI para criação de dashboards interativos e relatórios</li>
+  <li>Estatística aplicada à análise de dados</li>
+  <li>Google Looker Studio (porque dados também têm que brilhar ✨)</li>
+  <li>SAP módulo PP – foco em integração com processos produtivos</li>
   <li>Git e GitHub (você tá vendo isso aqui né 😁)</li>
 </ul>
 
