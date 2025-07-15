@@ -33,7 +33,7 @@
   <li>Power BI para criação de dashboards interativos e relatórios</li>
   <li>Estatística aplicada à análise de dados</li>
   <li>Google Looker Studio (porque dados também têm que brilhar ✨)</li>
-  <li>SAP módulo PP – foco em integração com processos produtivos</li>
+  <li>SAP módulo MM – foco em integração com processos produtivos</li>
   <li>Git e GitHub (você tá vendo isso aqui né 😁)</li>
 </ul>
 
