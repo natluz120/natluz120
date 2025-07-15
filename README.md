@@ -8,6 +8,8 @@
 
 <hr>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natluz120&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>🚀 Projetos em destaque</h2>
 
 <ul>
