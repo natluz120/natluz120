@@ -13,11 +13,12 @@
 <h2>🚀 Projetos em destaque</h2>
 
 <ul>
-  <li><strong>📊 Dash E-commerce:</strong> Dashboard interativo com Python e Dash para análise de dados de vendas.</li>
-  <li><strong>🎬 Django Streaming:</strong> Projeto de back-end com Django para explorar funcionalidades de um app de streaming.</li>
-  <li><strong>📈 Visualização de Dados:</strong> Projeto focado em gráficos, dados e storytelling com Python.</li>
+  <li><strong>💉 Ozempic Market Analysis:</strong> Estudo completo sobre o crescimento de mercado e eficácia do Ozempic entre 2022 e 2024, utilizando Python, SQL e Power BI.</li>
   <li><strong>🕷️ The Best Spider-Man Script:</strong> Análise de popularidade dos filmes do Homem-Aranha, utilizando bibliotecas Python e Looker Studio para visualizações.</li>
 </ul>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natluz120&repo=ozempic-market-analysis.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2>🎯 Objetivo profissional</h2>
 <p>Atuar como <strong>Analista de Dados</strong>, ajudando empresas a tomarem decisões mais inteligentes com base em dados reais e bem analisados.</p>
