@@ -17,7 +17,7 @@
   <li><strong>🕷️ The Best Spider-Man Script:</strong> Análise de popularidade dos filmes do Homem-Aranha, utilizando bibliotecas Python e Looker Studio para visualizações.</li>
 </ul>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natluz120&repo=ozempic-market-analysis.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natluz120&repo=ozempic-market-analysis&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2>🎯 Objetivo profissional</h2>
